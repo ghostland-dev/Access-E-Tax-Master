@@ -1,4 +1,4 @@
-# Access E-Tax
+# Energy Tax Rates
 
 Laravel application for managing energy tax rates and related customer files.
 
@@ -17,8 +17,8 @@ Laravel application for managing energy tax rates and related customer files.
 ## Getting Started
 
 ```bash
-git clone https://github.com/ghostland-dev/access-etax-rates.git
-cd access-etax-rates
+git clone https://github.com/ghostland-dev/energy-tax-rates.git
+cd energy-tax-rates
 cd E-tax
 composer install
 cp .env.example .env && php artisan key:generate
